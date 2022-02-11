@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @apple4884
 - 👀 My Discord with FiveM Support https://discord.gg/HKu5jBYUp6
-- 🌱 I’m currently learning Lua, JS
 - 💙 .definitely not apple#4884
       _       __ _       _ _       _                     _                       _      
    __| | ___ / _(_)_ __ (_) |_ ___| |_   _   _ __   ___ | |_    __ _ _ __  _ __ | | ___ 
